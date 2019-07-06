@@ -1,3 +1,3 @@
-const helloWorld = () => {
-  return "Hello World!";
+const helloWorld2 = () => {
+  return "Hello there World!";
 }
